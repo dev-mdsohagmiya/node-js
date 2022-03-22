@@ -1,0 +1,22 @@
+.container{
+    position: relative;
+}
+
+h1{
+    background-color: #0F172A;
+    padding: 10px 20px ;
+    color: #94A3B8;
+}
+.login-container{
+    margin-top: 50px;
+  
+    /* position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0; */
+    /* margin: auto; */
+    background-color: #FDE68A;
+    padding: 50px 50px ;
+    border-radius: 5px;
+}
